@@ -7,6 +7,6 @@ Este trabalho tem como principio evidenciar o numero de escolas brasileiras que 
 # Requisitos para a execução dos comandos:
 01 - Python Versão 3.7.5 (Durante a instalação do python, habilitar a opção PATH).
 
-02 - Instalar as bibliotecas necessarias (Instale o arquivo requirements.txt, nele contem todas as bibliotecas utilizadas). Para a instalação, acesse o Prompt Comando e digite "pip install -r requirements.txt". Caso ocorra algum erro de permissão digite o mesmo comando e acrescente "--user", isso irá solucionar o problema.
+02 - Instalar as bibliotecas necessarias (Instale o arquivo requirements.txt, nele contem todas as bibliotecas utilizadas). Para a instalação, coloque o arquivo na pasta do Usuário que você utiliza (Exemplo:"C:\Users\Matheus") acesse o Prompt Comando e digite "pip install -r requirements.txt". Caso ocorra algum erro de permissão digite o mesmo comando e acrescente "--user", isso irá solucionar o problema.
 
 03 - Baixar os dados utilizados para criação dos gráficos: https://drive.google.com/drive/folders/10RDAbRi-zG0i-lNhqKObaljLoIMjefzl?usp=sharing
